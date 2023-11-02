@@ -63,22 +63,22 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/ex021/caixa03.html">Executar o exercício 021c</a>
 
-<a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/exexercicio001/index.html">Executar o desafio 001</a>
+<a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/exercicio001/index.html">Executar o desafio 001</a>
 
-<a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/exexercicio002/index.html">Executar o desafio 002</a>
+<a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/exercicio002/index.html">Executar o desafio 002</a>
 
-<a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/exexercicio003/index.html">Executar o desafio 003</a>
+<a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/exercicio003/index.html">Executar o desafio 003</a>
 
-<a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/exexercicio004/index.html">Executar o desafio 004</a>
+<a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/exercicio004/index.html">Executar o desafio 004</a>
 
-<a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/exexercicio005/index.html">Executar o desafio 005</a>
+<a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/exercicio005/index.html">Executar o desafio 005</a>
 
-<a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/exexercicio006/index.html">Executar o desafio 006</a>
+<a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/exercicio006/index.html">Executar o desafio 006</a>
 
-<a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/exexercicio007/index.html">Executar o desafio 007</a>
+<a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/exercicio007/index.html">Executar o desafio 007</a>
 
-<a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/exexercicio008/index.html">Executar o desafio 008</a>
+<a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/exercicio008/index.html">Executar o desafio 008</a>
 
-<a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/exexercicio009/index.html">Executar o desafio 009</a>
+<a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/exercicio009/index.html">Executar o desafio 009</a>
 
-<a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/exexercicio010/android.html">Executar o desafio 010</a>
+<a href="https://arthurleripio.github.io/HTML-CSS/Exercicios/exercicio010/android.html">Executar o desafio 010</a>
